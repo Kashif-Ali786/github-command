@@ -1,0 +1,5 @@
+cd ~/Android/Sdk/emulator
+./emulator -avd Pixel_3a_XL_API_30
+
+
+export PATH="$PATH:~/Documents/Developement/flutter/bin"
